@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tedydevmac
-- 👀 I’m interested in App developemnt +/ AI 
+- 👀 I’m interested in App development +/ AI 
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: tedgohminwen@gmail.com
 
