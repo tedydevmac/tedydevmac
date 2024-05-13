@@ -2,8 +2,8 @@
 - 👀 I’m interested in App development +/ AI 
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: goh_min_wen_ted@s2022.ssts.edu.sg
-  
-![Cybersecurity Essentials Badge](https://github.com/tedydevmac/tedydevmac/assets/127374756/528cbf82-de16-41fe-b8ce-4aef665bd41a)
+
+![Cybersecurity Essentials Badge small](https://github.com/tedydevmac/tedydevmac/assets/127374756/a8144192-8b3c-4a40-97c7-504569320dd1)
 <!---
 tedydevmac/tedydevmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
