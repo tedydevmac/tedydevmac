@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ted goh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ted goh" height="30" width="40" /></a>
 </p>
-
+<br/>
 
 ![Python Essentials Badge small](https://github.com/user-attachments/assets/2ee97230-256d-45fc-9063-f0f166fa6a66)
 ![Cybersecurity Essentials Badge small](https://github.com/user-attachments/assets/7cac3478-82cf-4517-afc7-38a9422fcabc)
